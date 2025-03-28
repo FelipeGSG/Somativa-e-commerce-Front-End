@@ -58,6 +58,7 @@ button:hover {
     #divProduto {
         width: 375px;
         height: 650px;
+        min-height: fit-content;
         display: flex;
         align-items: center;
         justify-content: center;
